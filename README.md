@@ -1,4 +1,4 @@
-# Average score sorter
+# Average Score Sorter and Manipulator
 
 A compact MIPS assembly program that collects assignment scores, sorts them in **descending** order, optionally **drops the lowest N**, and prints the **rounded‑down average** of the remaining scores.
 
