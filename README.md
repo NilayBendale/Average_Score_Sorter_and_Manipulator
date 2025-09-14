@@ -104,7 +104,7 @@ Average (rounded down) with dropped scores removed: 17
 
 ---
 
-> Implemented **DropZone**, a MIPS assembly program that sorts scores, drops the lowest N, and computes a floor average using a recursive summation routine and clean stack discipline.
+> Implemented **Average_Score_Sorter_and_Manipulator**, a MIPS assembly program that sorts scores, drops the lowest N, and computes a floor average using a recursive summation routine and clean stack discipline.
 
 ---
 
